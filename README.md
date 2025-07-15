@@ -24,15 +24,15 @@ This home lab is designed to simulate a real-world Active Directory Domain Servi
 
 <p align="center">
 Server Role: <br/>
-<img src="https://i.imgur.com/7lfhSCw.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
+<img src="https://i.imgur.com/WGvGDoF.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
 <br />
 <br />
 Adding Forest:  <br/>
 <img src="https://i.imgur.com/cDIRMGL.png" height="80%" width="80%"  alt="Domain name: mydomain.com"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create_User: <br/>
+<img src="https://i.imgur.com/ql2dQ0R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
