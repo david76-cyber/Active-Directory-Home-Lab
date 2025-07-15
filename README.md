@@ -24,7 +24,7 @@ This home lab is designed to simulate a real-world Active Directory Domain Servi
 
 <p align="center">
 Server Role: <br/>
-<img src="https://imgur.com/a/mzfQYBt" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
+<img src="https://imgur.com/a/mzfQYBt/DCLab12.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
 <br />
 <br />
 Adding Forest:  <br/>
