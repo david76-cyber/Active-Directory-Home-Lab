@@ -24,11 +24,11 @@ This home lab is designed to simulate a real-world Active Directory Domain Servi
 
 <p align="center">
 Server Role: <br/>
-<img src="https://imgur.com/a/mzfQYBt/DCLab12.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
+<img src="https://imgur.com/a/mzfQYBt.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
 <br />
 <br />
 Adding Forest:  <br/>
-<img src="https://imgur.com/a/91EJl3P" height="80%" width="80%"  alt="Domain name: mydomain.com"/>
+<img src="https://imgur.com/a/91EJl3P.png" height="80%" width="80%"  alt="Domain name: mydomain.com"/>
 <br />
 <br />
 Enter the number of passes: <br/>
