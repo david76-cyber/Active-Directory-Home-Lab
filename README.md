@@ -32,7 +32,7 @@ Adding Forest:  <br/>
 <br />
 <br />
 Create_User: <br/>
-<img src="https://i.imgur.com/ql2dQ0R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GpF8b8t.png" height="80%" width="80%" alt="PowerShell script"/>
 <br />
 <br />
 Confirm your selection:  <br/>
