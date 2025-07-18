@@ -1,41 +1,56 @@
 # Active-Directory-Home-Lab
 
-<h1>Active-Directory-Home-Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This home lab is designed to simulate a real-world Active Directory Domain Services (AD DS) environment using Windows Server 2022 as the Domain Controller and Windows 10 as the client machine. It allows for testing and learning of domain management, user authentication, Group Policy, network services and created users with a PowerShell script
+This project simulates a real-world Active Directory Domain Services (AD DS) environment using **Windows Server 2022** and **Windows 10 Pro** in **VirtualBox**. It includes a PowerShell automation script to manage users, explore Group Policy, and practice domain-based administration in a safe lab setup.
 <br />
 
 
-<h2>Languages and Services Used</h2>
+<h2>Lab Description</h2>
+This home lab is designed to:
 
-- <b>PowerShell</b> 
-- <b></b>
+- <b>Build a Windows Server 2022 domain controller</b> 
+- <b>Join a Windows 10 Pro client to the domain</b>
+- <b>Create and delete users with PowerShell scripts</b>
+- <b>Practice domain policies, user authentication, and Group Policy Objects (GPO)</b>
+- <b>Understand basic AD DS roles and configurations</b>
 
-<h2>Environments Used </h2>
 
-- <b>VirtualBox</b>
-- <b>Windows Server 2022</b>
-- <b>Windows 10 Pro</b>
+<h2>Tech Stack</h2>
 
-<h2>Program walk-through:</h2>
+- <b>**PowerShell** – For automation and scripting (user management, domain setup)</b>
+- <b>**Windows Server 2022** – Domain Controller</b>
+- <b>**Windows 10 Pro** – Domain-joined client</b>
+- <b>**VirtualBox** – Virtualization platform</b>
+
+<h2>Environment Setup</h2>
+
+- <b>Virtual Machines: Created in VirtualBox</b>
+- <b>Network: Internal/Host-only adapter for isolated communication</b>
+- <b>Domain: `david.com`</b>
+- <b>DNS and AD DS installed on Windows Server 2022</b>
+
+<h2>Screenshots</h2>
 
 <p align="center">
- VirtualBox:  <br/>
+ VirtualBox Layout:  <br/>
 <img src="https://i.imgur.com/kU1XprL.png" height="80%" width="80%" alt="DC & Client"/>
  <br />
  <br />
-Server Role: <br/>
+AD DS Server Role Installed: <br/>
 <img src="https://i.imgur.com/WGvGDoF.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
 <br />
 <br />
-Adding Forest:  <br/>
+ New Forest Configuration:  <br/>
 <img src="https://i.imgur.com/cDIRMGL.png" height="80%" width="80%"  alt="Domain name: mydomain.com"/>
 <br />
 <br />
-Create_User: <br/>
+
+<h2>PowerShell Automation</h2>
+
+Create_User Script: <br/>
 <img src="https://i.imgur.com/GpF8b8t.png" height="80%" width="80%" alt="PowerShell script"/>
 <br />
 <br />
