@@ -39,8 +39,8 @@ Create_User: <br/>
 <img src="https://i.imgur.com/GpF8b8t.png" height="80%" width="80%" alt="PowerShell script"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Delete_user:  <br/>
+<img src="https://i.imgur.com/WkPRIgw.png" height="80%" width="80%" alt="PowerShell script"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
