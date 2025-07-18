@@ -25,6 +25,8 @@ This home lab is designed to simulate a real-world Active Directory Domain Servi
 <p align="center">
  VirtualBox:  <br/>
 <img src="https://i.imgur.com/kU1XprL.png" height="80%" width="80%" alt="DC & Client"/>
+ <br />
+ <br />
 Server Role: <br/>
 <img src="https://i.imgur.com/WGvGDoF.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
 <br />
