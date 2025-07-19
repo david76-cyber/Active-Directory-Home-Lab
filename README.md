@@ -32,6 +32,12 @@ This home lab is designed to:
 - <b>Domain: `david.com`</b>
 - <b>DNS and AD DS installed on Windows Server 2022</b>
 
+<h2>Group Policy Configuration Samples</h2>
+
+- <b>Enforce Password Policy: Strong domain password rules</b>
+- <b>Disable USB Storage: Prevent use of removable media</b>
+- <b>Force Wallpaper: Enforce a company-wide desktop background</b>
+
 <h2>Screenshots</h2>
 
 <p align="center">
@@ -58,16 +64,18 @@ Delete_user:  <br/>
 <img src="https://i.imgur.com/WkPRIgw.png" height="80%" width="80%" alt="PowerShell script"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Group Policy Configuration Samples</h2>
+Enforce Password Policy: Strong domain password rules:  <br/>
+<img src="https://i.imgur.com/YMNGUY6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Disable USB Storage: Prevent use of removable media:  <br/>
+<img src="https://i.imgur.com/SXzeZfS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Force Wallpaper: Enforce a company-wide desktop background:  <br/>
+<img src="https://i.imgur.com/4TesfRu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
