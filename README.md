@@ -41,6 +41,10 @@ This home lab is designed to:
 <h2>Screenshots</h2>
 
 <p align="center">
+ Active Directory Diagram: <br/>
+ <img src="https://i.imgur.com/9xb6W00.png" height="80%" width="80%" alt="Diagram"/>
+ <br />
+ <br />
  VirtualBox Layout:  <br/>
 <img src="https://i.imgur.com/kU1XprL.png" height="80%" width="80%" alt="DC & Client"/>
  <br />
