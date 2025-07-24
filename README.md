@@ -49,8 +49,8 @@ This home lab is designed to:
 <img src="https://i.imgur.com/kU1XprL.png" height="80%" width="80%" alt="DC & Client"/>
  <br />
  <br />
-AD DS Server Role Installed: <br/>
-<img src="https://i.imgur.com/WGvGDoF.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
+AD DS, DHCP, DNS Installed: <br/>
+<img src="https://i.imgur.com/IpzDVUf.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
 <br />
 <br />
  New Forest Configuration:  <br/>
