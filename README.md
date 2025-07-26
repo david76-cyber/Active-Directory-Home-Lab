@@ -50,7 +50,7 @@ This home lab is designed to:
  <br />
  <br />
 AD DS, DHCP, DNS Installed: <br/>
-<img src="https://i.imgur.com/IpzDVUf.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS)"/>
+<img src="https://i.imgur.com/yYGSV70.png" height="80%" width="80%" alt="Active Directory Domain Services (AD DS), DHCP, DNS"/>
 <br />
 <br />
  New Forest Configuration:  <br/>
