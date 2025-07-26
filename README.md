@@ -54,7 +54,7 @@ AD DS, DHCP, DNS Installed: <br/>
 <br />
 <br />
  New Forest Configuration:  <br/>
-<img src="https://i.imgur.com/cDIRMGL.png" height="80%" width="80%"  alt="Domain name: mydomain.com"/>
+<img src="https://i.imgur.com/nqU1hcS.png" height="80%" width="80%"  alt="Domain name: david.com"/>
 <br />
 <br />
 
